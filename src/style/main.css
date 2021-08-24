@@ -250,6 +250,10 @@ body {
   font-size: 0.875rem;
 }
 
+html {
+  overflow: hidden;
+}
+
 main {
   display: flex;
   align-items: center;
